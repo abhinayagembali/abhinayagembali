@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [GIET University](www.giet.edu)
 
-- 🌱 I’m currently learning *Data Structure using Java*
+- 🌱 I’m currently learning *machine learning using python *
 
 - 👯 Pursuing Bachelors of Degree in *Computer Science and Engineering*
 
