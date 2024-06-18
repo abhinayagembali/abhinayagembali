@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinayagembali&label=Profile%20views&color=0e75b6&style=flat" alt="abhinayagembali" /> </p>
 
 
-- 🔭 I’m currently working on [GIET University](www.giet.edu)
+- 🔭 I’m a student at [GIET University](www.giet.edu)
 
 - 🌱 I’m currently learning *machine learning using python *
 
